@@ -1,4 +1,4 @@
-name = "Create Basics"
+name = "Create Immersed"
 author = "GrandmasterB"
 version = "0.1.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d82b0b1a9fe5fcb7e38e7af820cb4daf5f4137b0f2e0b2e494f30240ac64cab4"
+hash = "ffb01b4031f9d35c0a1fb0e1c5e6efc93106b77c89d7553a6c3d96fdf2fe031d"
 
 [versions]
 fabric = "0.15.1"

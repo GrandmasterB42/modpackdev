@@ -1,0 +1,13 @@
+name = "Vanilla Augmented"
+author = "GrandmasterB"
+version = "0.1.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "15e3ec6b94b96f8f692b2ba31bda000d35babd35896ebe90dfdeda468c0dfbe5"
+
+[versions]
+fabric = "0.15.1"
+minecraft = "1.20.1"

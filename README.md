@@ -5,4 +5,4 @@ A comprehensive description of the modpack can be found on [Modrinth](https://mo
 
 All my derived Modpacks can be found in the branches for now, if anyone has a better idea how to do that, let me know on [Discord](https://discord.gg/rmUkjG8S6V)
 
-This Modpack is created usinf the awesome packwiz tool ( [Github](https://github.com/packwiz/packwiz) | [Documentation](https://packwiz.infra.link/) )
+This Modpack is created using the awesome packwiz tool ( [Github](https://github.com/packwiz/packwiz) | [Documentation](https://packwiz.infra.link/) )

@@ -221,11 +221,6 @@ hash = "d5703dbab81221abd81236f249b3f6256101debee1bea643bf0e20835193fce2"
 metafile = true
 
 [[files]]
-file = "mods/extendeddrawersaddon.pw.toml"
-hash = "e50360fb6bc279f8ace2554306b66065a8345f4fe1e40f7e352035a0d400c926"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
 metafile = true

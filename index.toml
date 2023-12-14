@@ -411,11 +411,6 @@ hash = "d8d167c69fa2b57d6ef71f1649da05ac7cbfbc9213b43aeb6e81ed9ffa49a114"
 metafile = true
 
 [[files]]
-file = "mods/respite-creators-fabric.pw.toml"
-hash = "bf0954317bd6cb4067803b2324ec4669713e5c87ea0b778163574a8cf190fa0a"
-metafile = true
-
-[[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
 hash = "099f4613975cba72fd83510efccfa85c4c15e446aebf082584c24e87f2ab918e"
 metafile = true

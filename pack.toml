@@ -1,12 +1,12 @@
 name = "Create Immersed"
 author = "GrandmasterB"
-version = "0.1.0"
+version = "0.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "df612167112e4f4a39325e2af55be236baeaf4b585b163dbe1dab89a02cceace"
+hash = "05277b46f2e4393b1159792510c1793c5577c4d1d37db39fbd67f1d790c16827"
 
 [versions]
 fabric = "0.15.1"

@@ -411,6 +411,11 @@ hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
+file = "mods/soulbound-enchantment.pw.toml"
+hash = "9ffde1ef6067c8955816475a38b6d094bc7f0da280c31f91c61df809c187fbbf"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "0562a83565f02e9b862b2e0b616ee3dcb669d651410d4519446110b31ae51232"
 metafile = true

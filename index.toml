@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/vcinteraction/vcinteraction.properties"
-hash = "a08d0893e38d47c30fe4c2ea26878d1c3b994ff2a5497f45e10dabe14723e769"
+hash = "2c2de54067a8b1142b6af7b68b07e7c3e9e87257739b653eaf844b658d1949a8"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/vcinteraction/vcinteraction.properties"
+hash = "a08d0893e38d47c30fe4c2ea26878d1c3b994ff2a5497f45e10dabe14723e769"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true

@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "c4eced58f9f23a0a3d3bdba9834df861bebfb75dce2f5783a614cd5a70ea8522"
+hash = "f063728350c1bd545327b3e6156210e2f065513029fd7bbfe50198e941f175ad"
 metafile = true
 
 [[files]]

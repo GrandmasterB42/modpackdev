@@ -1,12 +1,12 @@
 name = "Create Basics"
 author = "GrandmasterB"
-version = "0.1.1"
+version = "0.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3277fe62f0b2a9b5727aa153c9c11c085bf79f85507850e7355f201f7b898b5c"
+hash = "f4e037ada5779c5883ded4a1ab72caeed2b1bff6c8972b50e2e9f43a33e493d8"
 
 [versions]
 fabric = "0.15.1"

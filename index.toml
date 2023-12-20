@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/vcinteraction/vcinteraction.properties"
+hash = "2c2de54067a8b1142b6af7b68b07e7c3e9e87257739b653eaf844b658d1949a8"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
@@ -151,11 +155,6 @@ hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "684e9cdf97cc1173be16e2b90c767044e8cd853d19294b5aa76f4507dfbde22b"
 metafile = true
@@ -218,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/highlight.pw.toml"
+hash = "17e0130bc29e14dd26019d0f0ccef1fab6f8dc7ab2a5ea60a6c734cae127d741"
 metafile = true
 
 [[files]]
@@ -356,6 +360,11 @@ hash = "ae9f8aab8ab115688b981f290bc59db0de3b982e0a828b2ece38c41130b46a08"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "22932bca72925cf1f506c169dd12aabe3491aa229188c3c521bc250b7eb93a9c"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
 hash = "099f4613975cba72fd83510efccfa85c4c15e446aebf082584c24e87f2ab918e"
 metafile = true
@@ -438,6 +447,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "f063728350c1bd545327b3e6156210e2f065513029fd7bbfe50198e941f175ad"
 metafile = true
 
 [[files]]
